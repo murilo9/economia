@@ -85,10 +85,30 @@ portanto:
 Bem-estar geral = renda doméstica - custos
 
 O bem-estar social é maior na medida em que a renda doméstica é maior e/ou os custos são menores.
+[colocar mais observações aqui]
 
 ## Comportamento das empresas
 
+Custos totais = custos fixos + custos variáveis
+Custo total médio = custos totais / quantidade produzida
+Lucro contábil = receita total - custos totais explícitos
+Lucro econômico = receita total - custos totais explícitos e implícitos
+O custo implícito mais relevante é o custo de oportunidade do capital financeiro que foi investido na empresa.
+
+O produto marginal é a variação do produto que resulta da variação de uma unidade de insumo.
+Produto marginal decrescente: a cada unidade extra de um insumo, o produto marginal é menor que o anterior (podendo chegar a zero e ser até mesmo negativo).
+
+> Obs: todas as curvas mencionadas são em função da quantidade produzida.
+
+O _custo marginal_ indica o aumento do custo total médio que resulta do aumento da produção em uma unidade.
+No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
+A curva de custo total médio possui forma de 'U' pois ela consiste na soma de duas curvas: a curva de custo fixo médio (decrescente) e a curva de custo variável médio (crescente).
+Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U', chamado de _escala eficiente_.
+
 ## Tipos de mercado: competição perfeita
+
+Um mercado de competição perfeita é um mercado onde há tantos comrpadores e vendedores que nenhum deles individualmente tem poder de alterar o preço, portanto ambos são tomadores de preço. Além disso, em um mercado competitivo as empresas são livres para entrar e sair do mercado.
+Como o preço é tomado e a demanda é alta (devido ao grnade número de compradores), a receita total de uma empresa é proporcional ao volume de produção.
 
 ## Tipos de mercado: monopólio
 
