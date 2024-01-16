@@ -134,7 +134,7 @@ Produto marginal decrescente: a cada unidade extra de um insumo, o produto margi
 O _custo marginal_ indica o aumento do custo total médio que resulta do aumento da produção em uma unidade.
 No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
 A curva de custo total médio possui forma de 'U' pois ela consiste na soma de duas curvas: a curva de custo fixo médio (decrescente) e a curva de custo variável médio (crescente).
-Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U', chamado de _escala eficiente_.
+Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U' (ponto de menor custo total médio), chamado de _escala eficiente_.
 
 ## Tipos de mercado: competição perfeita
 
