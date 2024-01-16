@@ -14,24 +14,39 @@ A _curva de demanda_ representa a demanda em função do preço. A demanda é in
 Equação de demanda:
 
 demanda = deslocamentos - (preço x elasticidade)
+
 elasticidade = Δdemanda / Δpreço
+
 deslocamentos = R + Plb + G + Epf + Qc
+
 R = renda dos consumidores
+
 G = gostos
+
 Epf = expectativa de preços futuros
+
 Qc = qtd. atual de compradores
+
 Plb = Preço líquido dos bens relacionados = Pbs - Pbr
+
 Pbs = preço dos bens substitutos
+
 Pbr = preço dos bens relacionados
 
 Equação de oferta:
 
 oferta = elasticidade x preço + deslocamentos
+
 elasticidade = Δoferta / Δpreço
+
 deslocamentos = - Pi + T - EPf + Qv
+
 Pi = preço dos insumos
+
 T = tecnologia
+
 EPf = expectativa de preços futuros
+
 Qv = qtd. atual de vendedores
 
 [seção descrevendo o funcionamento de cada um dos fatores dos deslocamentos]
@@ -53,13 +68,17 @@ Um mercado livre de intervenções tende a oscilar em torno do preço de equilí
 A elasticidade da oferta/demanda representa a variação na oferta/demanda em função de uma variação no preço.
 
 Elasticidade da oferta = Δoferta / Δpreço
+
 Elasticidade da demanda = Δdemanda / Δpreço
 
 Elasticidade > 1 -> Oferta/demanda é elástica: ela varia bastante conforme o preço varia.
+
 Elasticidade = 1 -> Oferta/demanda tem elasticidade neutra: ela varia de forma proporcional ao preço.
+
 Elasticidade < 1 -> Oferta/demanda é inelástica: ela varia pouco conforme o preço varia.
 
 Bens e serviços mais essenciais tendem a ter demanda mais inelástica.
+
 Bens e serviços menos essenciais tendem a ter demanda mais elástica.
 
 ## Eficiência de mercado
@@ -71,17 +90,25 @@ Um mercado promove bem-estar na medida em que é eficiente. Um mercado é eficie
 O excedente de consumidor/produtor é o valor gerado para o comprador/vendedor, que também pode ser considerado seu bem-estar.
 
 Excedente de produtor = preço de venda - disposição para vender
+
 portanto:
+
 Excedente de produtor = preço de venda - custos
 
 Excedente de consumidor = disposição a pagar - preço de compra
+
 portanto:
+
 Excedente de consumidor = renda doméstica - preço de compra
 
 Bem-etar geral = excedente de consumidor + excedente de produtor
+
 portanto:
+
 Bem-etar geral = renda doméstica - preço de compra + preço de venda - custos
+
 portanto:
+
 Bem-estar geral = renda doméstica - custos
 
 O bem-estar social é maior na medida em que a renda doméstica é maior e/ou os custos são menores.
@@ -90,9 +117,13 @@ O bem-estar social é maior na medida em que a renda doméstica é maior e/ou os
 ## Comportamento das empresas
 
 Custos totais = custos fixos + custos variáveis
+
 Custo total médio = custos totais / quantidade produzida
+
 Lucro contábil = receita total - custos totais explícitos
+
 Lucro econômico = receita total - custos totais explícitos e implícitos
+
 O custo implícito mais relevante é o custo de oportunidade do capital financeiro que foi investido na empresa.
 
 O produto marginal é a variação do produto que resulta da variação de uma unidade de insumo.
