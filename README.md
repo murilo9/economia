@@ -127,9 +127,27 @@ Lucro econômico = receita total - custos totais explícitos e implícitos
 O custo implícito mais relevante é o custo de oportunidade do capital financeiro que foi investido na empresa.
 
 O produto marginal é a variação do produto que resulta da variação de uma unidade de insumo.
-Produto marginal decrescente: a cada unidade extra de um insumo, o produto marginal é menor que o anterior (podendo chegar a zero e ser até mesmo negativo).
+**Produto marginal decrescente**: a cada unidade extra de um insumo, o produto marginal é menor que o anterior (podendo chegar a zero e ser até mesmo negativo).
 
 > Obs: todas as curvas mencionadas são em função da quantidade produzida.
+
+```
+Preço em mercado competitivo: $6
+
+----------------------------------------------------------------------------------------
+| Quantidade | Receita total | Receita marginal | Custo total | Custo marginal | Lucro |
+|     1      |       6       |        6         |      4      |        1       |   2   |
+|     2      |      12       |        6         |      7      |        3       |   5   |
+|     3      |      18       |        6         |     11      |        4       |   7   |
+|     4      |      24       |        6         |     16      |        5       |   8   |
+|     5      |      30       |        6         |     22      |        6       |   9   | <-- Lucro máximo, quantidade ideal
+|     6      |      36       |        6         |     30      |        8       |   6   |
+|     7      |      42       |        6         |     42      |       10       |   0   |
+|     8      |      48       |        6         |     56      |       14       |  -4   |
+----------------------------------------------------------------------------------------
+```
+
+A empresa tem o maior lucro produzindo 5 unidades, que é o ponto onde _a receita marginal é exatamente igual ao custo marginal_.
 
 O _custo marginal_ indica o aumento do custo total médio que resulta do aumento da produção em uma unidade.
 No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
@@ -139,7 +157,7 @@ Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais b
 ## Tipos de mercado: competição perfeita
 
 Um mercado de competição perfeita é um mercado onde há tantos comrpadores e vendedores que nenhum deles individualmente tem poder de alterar o preço, portanto ambos são tomadores de preço. Além disso, em um mercado competitivo as empresas são livres para entrar e sair do mercado.
-Como o preço é tomado e a demanda é alta (devido ao grnade número de compradores), a receita total de uma empresa é proporcional ao volume de produção.
+Como o preço é tomado e a demanda é alta (devido ao grande número de compradores), a receita total de uma empresa é proporcional ao volume de produção.
 
 ## Tipos de mercado: monopólio
 
