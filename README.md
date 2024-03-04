@@ -134,22 +134,22 @@ O produto marginal é a variação do produto que resulta da variação de uma u
 ```
 Preço em mercado competitivo: $6
 
-----------------------------------------------------------------------------------------
-| Quantidade | Receita total | Receita marginal | Custo total | Custo marginal | Lucro |
-|     1      |       6       |        6         |      4      |        1       |   2   |
-|     2      |      12       |        6         |      7      |        3       |   5   |
-|     3      |      18       |        6         |     11      |        4       |   7   |
-|     4      |      24       |        6         |     16      |        5       |   8   |
-|     5      |      30       |        6         |     22      |        6       |   9   | <-- Lucro máximo, quantidade ideal
-|     6      |      36       |        6         |     30      |        8       |   6   |
-|     7      |      42       |        6         |     42      |       10       |   0   |
-|     8      |      48       |        6         |     56      |       14       |  -4   |
-----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+| Quantidade | Receita total | Receita marginal | Custo total | Custo total médio | Custo marginal | Lucro |
+|     1      |       6       |        6         |      4      |       4.00        |        1       |   2   |
+|     2      |      12       |        6         |      7      |       3.50        |        3       |   5   |
+|     3      |      18       |        6         |     11      |       3.67        |        4       |   7   |
+|     4      |      24       |        6         |     16      |       4.00        |        5       |   8   |
+|     5      |      30       |        6         |     22      |       4.40        |        6       |   9   | <-- Lucro máximo, quantidade ideal
+|     6      |      36       |        6         |     30      |       5.00        |        8       |   6   |     para a empresa produzir.
+|     7      |      42       |        6         |     42      |       6.00        |       10       |   0   |
+|     8      |      48       |        6         |     56      |       7.00        |       14       |  -4   |
+------------------------------------------------------------------------------------------------------------
 ```
 
 A empresa tem o maior lucro produzindo 5 unidades, que é o ponto onde _a receita marginal é exatamente igual ao custo marginal_.
 
-O _custo marginal_ indica o aumento do custo total médio que resulta do aumento da produção em uma unidade.
+O _custo marginal_ indica o aumento do custo total que resulta do aumento da produção em uma unidade.
 No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
 A curva de custo total médio possui forma de 'U' pois ela consiste na soma de duas curvas: a curva de custo fixo médio (decrescente) e a curva de custo variável médio (crescente).
 Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U' (ponto de menor custo total médio), chamado de _escala eficiente_.
@@ -158,6 +158,13 @@ Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais b
 
 Um mercado de competição perfeita é um mercado onde há tantos comrpadores e vendedores que nenhum deles individualmente tem poder de alterar o preço, portanto ambos são tomadores de preço. Além disso, em um mercado competitivo as empresas são livres para entrar e sair do mercado.
 Como o preço é tomado e a demanda é alta (devido ao grande número de compradores), a receita total de uma empresa é proporcional ao volume de produção.
+Em um mercado de competição perfeita:
+
+- Se as empresas existentes têm lucro, novas empresas são estimuladas a entrar no mercado, aumentando a oferta.
+- Se algumas das empresas existentes têm prejuízo, tais empresas são estimuladas a sair do mercado, diminuindo a oferta.
+
+A variação na oferta/demanda causa variações no preço, que causa variações no lucro das empresas, perpetuando o processo de entrada/saída, que gira ao redor do ponto de equilíbrio onde o preço é tal qual o lucro _econômico_ (mas não o contábil) das empresas seja zero, onde não há incentivos para entrada nem para saída de empresas.
+Portanto, em um mercado de competição perfeita a curva de oferta de curto prazo tem inclinação positiva, mas a curva de oferta de longo prazo é horizontal (preço fixo, quantidade indeterminada), no preço que se iguala ao custo total médio _mínimo_ de todas as empresas do mercado, que é o ponto onde elas têm lucro contábil igual a zero.
 
 ## Tipos de mercado: monopólio
 
