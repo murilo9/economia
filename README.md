@@ -136,7 +136,7 @@ No curto prazo, o custo marginal é crescente pois a cada unidade extra produzid
 A _receita marginal_ indica o aumento na receita que resulta do aumento da produção em uma unidade.
 Em mercados competitivos, a receita marginal é sempre igual ao preço (P), pois ao vender uma unidade extra, a receita aumenta em exatamente P.
 
-[gráfico com curvas de custo marginal e receita marginal]
+[gráfico com linhas de custo marginal e receita marginal]
 
 Se receita marginal > custo marginal, então aumentar a quantidade aumenta o lucro.
 Se receita marginal > custo marginal, então diminuir a quantidade aumenta o lucro.
@@ -184,7 +184,7 @@ Uma empresa é um monopólio se for a única ofertante do seu produto no mercado
 Uma empresa se mantém no monopólio na medida em que existirem barreiras de entrada suficientes para imepdir a entrada de novas empresas no mercado. As principais causas de barreiras de entrada são exclusividade de recursos, políticas de governo e dumping.
 Uma empresa é um monopólio natural quando ela sozinha consegue satisfazer toda a demanda operando na escala eficiente. O crescimento da demanda pode fazer com que um monopólio natural evolua para um mercado mais competitivo.
 
-Um mercado monopolista não possui curva de oferta, ele possui apenas a curva de demanda, e o ofertante escolhe em que ponto da curva de demanda (preço/quantidade) ele vai operar. Para maximizar o lucro, o monopolista escolhe a quantidade onde a receita marginal seja igual ao custo marginal, e então usa a curva de demanda para definir o preço que induza os consumidores a comprar esta quantidade. A curva de demanda determina as possibilidades de lucro do monopolista pois ela determina a quantidade que ele conseguirá vender a cada preço dado (ou o preço máximo para uma dada quantidade).
+Um mercado monopolista não possui curva de oferta, ele possui apenas a curva de demanda, e o ofertante escolhe em que ponto da curva de demanda (preço/quantidade) ele vai operar. A curva de demanda determina as possibilidades de lucro do monopolista pois ela determina a quantidade que ele conseguirá vender a cada preço dado (ou o preço máximo para uma dada quantidade). Para _maximizar o lucro_, o monopolista escolhe a quantidade onde a receita marginal seja igual ao custo marginal, e então usa a curva de demanda para definir o preço máximo que pode cobrar para que os consumidores comprem esta quantidade.
 
 ## Tipos de mercado: oligopólio
 
