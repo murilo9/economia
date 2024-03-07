@@ -136,6 +136,12 @@ No curto prazo, o custo marginal é crescente pois a cada unidade extra produzid
 A _receita marginal_ indica o aumento na receita que resulta do aumento da produção em uma unidade.
 Em mercados competitivos, a receita marginal é sempre igual ao preço (P), pois ao vender uma unidade extra, a receita aumenta em exatamente P.
 
+[gráfico com curvas de custo marginal e receita marginal]
+
+Se receita marginal > custo marginal, então aumentar a quantidade aumenta o lucro.
+Se receita marginal > custo marginal, então diminuir a quantidade aumenta o lucro.
+Se receita marginal = custo marginal, então o lucro está maximizado e não se deve alterar a quantidade.
+
 A curva de custo total médio possui forma de 'U' pois ela consiste na soma de duas curvas: a curva de custo fixo médio (decrescente) e a curva de custo variável médio (crescente).
 Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U' (ponto de menor custo total médio), chamado de _escala eficiente_.
 
