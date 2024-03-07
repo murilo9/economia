@@ -112,7 +112,8 @@ portanto:
 Bem-estar geral = renda doméstica - custos
 
 O bem-estar social é maior na medida em que a renda doméstica é maior e/ou os custos são menores.
-[colocar mais observações aqui]
+
+> Isso demonstra como aumentos no salário mínimo não geram aumentos reais no bem-estar, pois cada centavo extra na renda doméstica implica em um centavo extra nos custos.
 
 ## Comportamento das empresas
 
