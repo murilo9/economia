@@ -147,7 +147,9 @@ Preço em mercado competitivo: $6
 ------------------------------------------------------------------------------------------------------------
 ```
 
-A empresa tem o maior lucro produzindo 5 unidades, que é o ponto onde _a receita marginal é exatamente igual ao custo marginal_.
+A empresa tem o maior lucro produzindo 5 unidades, que é o ponto onde _a receita marginal é exatamente igual ao custo marginal_, isto é, onde as duas curvas se cruzam.
+
+> Isto se deve ao fato de que em quantidades baixas, o custo marginal é menor que a receita marginal, portanto aumentar a quantidade aumenta o lucro. Na medida em que a quantidade amenta ainda mais, o custo marginal também aumenta, até chegar no ponto onde ele se iguala á receita marginal. Este é o ponto a partir do qual aumentar a quantidade não aumenta mais o lucro (só diminui).
 
 O _custo marginal_ indica o aumento do custo total que resulta do aumento da produção em uma unidade.
 No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
