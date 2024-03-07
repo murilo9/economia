@@ -165,8 +165,15 @@ Em um mercado de competição perfeita:
 
 A variação na oferta/demanda causa variações no preço, que causa variações no lucro das empresas, perpetuando o processo de entrada/saída, que gira ao redor do ponto de equilíbrio onde o preço é tal qual o lucro _econômico_ (mas não o contábil) das empresas seja zero, onde não há incentivos para entrada nem para saída de empresas.
 Portanto, em um mercado de competição perfeita a curva de oferta de curto prazo tem inclinação positiva, mas a curva de oferta de longo prazo é horizontal (preço fixo, quantidade indeterminada), no preço que se iguala ao custo total médio _mínimo_ de todas as empresas do mercado, que é o ponto onde elas têm lucro contábil igual a zero.
+Mesmo se a curva de oferta de longo prazo não for horizontal (pois empresas diferentes podem ter custos diferentes no preço de equilíbrio), ela é mais elástica que curva de oferta de curto prazo.
 
 ## Tipos de mercado: monopólio
+
+Uma empresa é um monopólio se for a única ofertante do seu produto no mercado e o produto não tiver substitutos próximos. Atualmente, poucas empresas se enquadram nesta situação.
+Uma empresa se mantém no monopólio na medida em que existirem barreiras de entrada suficientes para imepdir a entrada de novas empresas no mercado. As principais causas de barreiras de entrada são exclusividade de recursos, políticas de governo e dumping.
+Uma empresa é um monopólio natural quando ela sozinha consegue satisfazer toda a demanda operando na escala eficiente. O crescimento da demanda pode fazer com que um monopólio natural evolua para um mercado mais competitivo.
+
+Um mercado monopolista não possui curva de oferta, ele possui apenas a curva de demanda, e o ofertante escolhe em que ponto da curva de demanda (preço/quantidade) ele vai operar. Para maximizar o lucro, o monopolista escolhe a quantidade onde a receita marginal seja igual ao custo marginal, e então usa a curva de demanda para definir o preço que induza os consumidores a comprar esta quantidade. A curva de demanda determina as possibilidades de lucro do monopolista pois ela determina a quantidade que ele conseguirá vender a cada preço dado (ou o preço máximo para uma dada quantidade).
 
 ## Tipos de mercado: oligopólio
 
