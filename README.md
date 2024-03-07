@@ -131,6 +131,14 @@ O produto marginal é a variação do produto que resulta da variação de uma u
 
 > Obs: todas as curvas mencionadas são em função da quantidade produzida.
 
+O _custo marginal_ indica o aumento do custo total que resulta do aumento da produção em uma unidade.
+No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
+A _receita marginal_ indica o aumento na receita que resulta do aumento da produção em uma unidade.
+Em mercados competitivos, a receita marginal é sempre igual ao preço (P), pois ao vender uma unidade extra, a receita aumenta em exatamente P.
+
+A curva de custo total médio possui forma de 'U' pois ela consiste na soma de duas curvas: a curva de custo fixo médio (decrescente) e a curva de custo variável médio (crescente).
+Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U' (ponto de menor custo total médio), chamado de _escala eficiente_.
+
 ```
 Preço em mercado competitivo: $6
 
@@ -150,11 +158,6 @@ Preço em mercado competitivo: $6
 A empresa tem o maior lucro produzindo 5 unidades, que é o ponto onde _a receita marginal é exatamente igual ao custo marginal_, isto é, onde as duas curvas se cruzam.
 
 > Isto se deve ao fato de que em quantidades baixas, o custo marginal é menor que a receita marginal, portanto aumentar a quantidade aumenta o lucro. Na medida em que a quantidade amenta ainda mais, o custo marginal também aumenta, até chegar no ponto onde ele se iguala á receita marginal. Este é o ponto a partir do qual aumentar a quantidade não aumenta mais o lucro (só diminui).
-
-O _custo marginal_ indica o aumento do custo total que resulta do aumento da produção em uma unidade.
-No curto prazo, o custo marginal é crescente pois a cada unidade extra produzida, o aumento do custo variável é maior que o aumento anterior.
-A curva de custo total médio possui forma de 'U' pois ela consiste na soma de duas curvas: a curva de custo fixo médio (decrescente) e a curva de custo variável médio (crescente).
-Portanto, ao decidir a quantidade produzida, a melhor escolha é no ponto mais baixo do 'U' (ponto de menor custo total médio), chamado de _escala eficiente_.
 
 ## Tipos de mercado: competição perfeita
 
