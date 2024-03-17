@@ -187,6 +187,30 @@ Uma empresa é um monopólio natural quando ela sozinha consegue satisfazer toda
 
 Um mercado monopolista não possui curva de oferta, ele possui apenas a curva de demanda, e o ofertante escolhe em que ponto da curva de demanda (preço/quantidade) ele vai operar. A curva de demanda determina as possibilidades de lucro do monopolista pois ela determina a quantidade que ele conseguirá vender a cada preço dado (ou o preço máximo para uma dada quantidade). Para _maximizar o lucro_, o monopolista escolhe a quantidade onde a receita marginal seja igual ao custo marginal, e então usa a curva de demanda para definir o preço máximo que pode cobrar para que os consumidores comprem esta quantidade.
 
+```
+Para o monopolista, o preço é determinado pela curva de demanda.
+
+--------------------------------------------------------------------------------------------------------------------
+| Quantidade | Preço | Receita Total | Receita marginal | Custo total | Custo total médio | Custo marginal | Lucro |
+|     1      |   32  |      32       |       32         |      4      |       4.00        |        1       |  28   |
+|     2      |   28  |      56       |       24         |      7      |       3.50        |        3       |  49   |
+|     3      |   24  |      72       |       16         |     11      |       3.67        |        4       |  61   |
+|     4      |   20  |      80       |        8         |     16      |       4.00        |        5       |  64   | <-- Lucro máximo, preço ideal
+|     5      |   16  |      80       |        0         |     22      |       4.40        |        6       |  58   |      para a empresa produzir.
+|     6      |   12  |      72       |       -8         |     30      |       5.00        |        8       |  42   |
+|     7      |    8  |      56       |      -16         |     42      |       6.00        |       10       |  14   |
+|     8      |    4  |      32       |      -24         |     56      |       7.00        |       14       | -24   |
+--------------------------------------------------------------------------------------------------------------------
+```
+
+Como o lucro máximo é obtido em um preço onde a receita marginal ainda é maior que o custo marginal, a quantidade produzida é inferior à quantidade socialmente eficiente (que é a quantidade onde a receita marginal é igual a zero), e o preço é maior. A soma do bem-estar, entretanto, continua a mesma, pois cada real de bem-estar a menos para um consumidor significa um real a mais de bem-estar para um produtor.
+O problema da quantidade socialmente ineficiente pode ser resolvido permitindo que o monopolista pratique discriminação de preços (ao invés de cobrar um preço fixo), assim o preço que ele cobrará de cada consumidor será exatamente igual a sua propensão a pagar (desde que o preço esteja acima do custo total) e a quantidade produzida aumenta.
+Cada política anti-monopólio tem suas consequências:
+
+- Leis antitruste podem não ser precisar o suficiente em avaliar se o custo social da queda na competitividade supera os ganhos de produtividade resultantes da sinergia resutlante da fusão.
+- Regulamentações que limitem o lucro podem desestimular os monopólios a reduzir custos e, se não houver lucro econômico, podem fazer com que a empresa opte por deixar o mercado.
+- A estatização pode levar à ineficiência econômica, visto que burocratas administradores não estão sujeitos aos mesmos riscos nem possuem os mesmos estímulos que empresários (i.e. a falha poítica pode ser maior que a falha de mercado).
+
 ## Tipos de mercado: oligopólio
 
 ## Tipos de mercado: competição monopolística
@@ -238,3 +262,11 @@ Um mercado monopolista não possui curva de oferta, ele possui apenas a curva de
 ## Curva de Phillips
 
 ### Tradeoff entre inflação e desemprego no curto prazo
+
+## Ensaio: e se todas as empresas fossem cooperativas?
+
+1. Lucro da empresa viraria renda dos consumidores.
+2. Aumento da renda dos consumidores geraria aumento da demanda (gastos domésticos).
+3. Aumento da demanda induz aumento da oferta.
+4. No curto prazo, as empresas não podem aumentar a produção se estiverem operando na escala eficiente, portanto só podem aumentar o preço.
+5. Aumento de preço causaria queda na demanda no médio prazo, fazendo ela voltar ao ponto de equilíbrio.
