@@ -279,3 +279,14 @@ Um mercado de competição imperfeita se caracteriza por ter um grande número d
 3. Aumento da demanda induz aumento da oferta.
 4. No curto prazo, as empresas não podem aumentar a produção se estiverem operando na escala eficiente, portanto só podem aumentar o preço.
 5. Aumento de preço causaria queda na demanda no médio prazo, fazendo ela voltar ao ponto de equilíbrio.
+
+## Como fazer uma análise econômica
+
+Análise de um (ou mais) mercado(s) específico(s): microeconomia
+Análise da economia como um todo: macroeconomia
+
+Etapas da análise microeconômica:
+
+1. Definir o tipo de mercado existente
+2. Entender a dinâmica ocorrendo no mercado
+3. Com base no entendimento da dinâmica, propor a melhor solução política (intervenção ou laisez-faire)
