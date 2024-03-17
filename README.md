@@ -166,6 +166,13 @@ A empresa tem o maior lucro produzindo 5 unidades, que é o ponto onde _a receit
 
 > Isto se deve ao fato de que em quantidades baixas, o custo marginal é menor que a receita marginal, portanto aumentar a quantidade aumenta o lucro. Na medida em que a quantidade amenta ainda mais, o custo marginal também aumenta, até chegar no ponto onde ele se iguala á receita marginal. Este é o ponto a partir do qual aumentar a quantidade não aumenta mais o lucro (só diminui).
 
+## Tipos de mercado: introdução
+
+Uma empresa: monopólio
+Poucas empresas (alto coeficiente de concentração): oligopólio
+Muitas empresas, com produtos idênticos: competição perfeita
+Muitas empresas, com produtos similares mas não idênticos: competição imperfeita
+
 ## Tipos de mercado: competição perfeita
 
 Um mercado de competição perfeita é um mercado onde há tantos comrpadores e vendedores que nenhum deles individualmente tem poder de alterar o preço, portanto ambos são tomadores de preço. Além disso, em um mercado competitivo as empresas são livres para entrar e sair do mercado.
@@ -211,9 +218,11 @@ Cada política anti-monopólio tem suas consequências:
 - Regulamentações que limitem o lucro podem desestimular os monopólios a reduzir custos e, se não houver lucro econômico, podem fazer com que a empresa opte por deixar o mercado.
 - A estatização pode levar à ineficiência econômica, visto que burocratas administradores não estão sujeitos aos mesmos riscos nem possuem os mesmos estímulos que empresários (i.e. a falha poítica pode ser maior que a falha de mercado).
 
-## Tipos de mercado: oligopólio
+## Tipos de mercado: competição imperfeita
 
-## Tipos de mercado: competição monopolística
+Um mercado de competição imperfeita se caracteriza por ter um grande número de ofertantes e consumidores, e cada empresa detém monopólio sobre seu produto, mas eles não são idênticos, portanto as empresas possuem um grau de poder de mercado, não sendo tomadoras de preço. A grande maioria das empresas se encontra neste tipo de mercado.
+
+## Tipos de mercado: oligopólio
 
 ## Extra: como funciona o mercado de trabalho
 
