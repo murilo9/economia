@@ -214,15 +214,28 @@ Como o lucro máximo é obtido em um preço onde a receita marginal ainda é mai
 O problema da quantidade socialmente ineficiente pode ser resolvido permitindo que o monopolista pratique discriminação de preços (ao invés de cobrar um preço fixo), assim o preço que ele cobrará de cada consumidor será exatamente igual a sua propensão a pagar (desde que o preço esteja acima do custo total) e a quantidade produzida aumenta.
 Cada política anti-monopólio tem suas consequências:
 
-- Leis antitruste podem não ser precisar o suficiente em avaliar se o custo social da queda na competitividade supera os ganhos de produtividade resultantes da sinergia resutlante da fusão.
+- Leis antitruste (que impedem fusões) podem não ser precisas o suficiente em avaliar se o custo social da queda na competitividade supera os ganhos de produtividade resultantes da sinergia resutlante da fusão
 - Regulamentações que limitem o lucro podem desestimular os monopólios a reduzir custos e, se não houver lucro econômico, podem fazer com que a empresa opte por deixar o mercado.
 - A estatização pode levar à ineficiência econômica, visto que burocratas administradores não estão sujeitos aos mesmos riscos nem possuem os mesmos estímulos que empresários (i.e. a falha poítica pode ser maior que a falha de mercado).
+- A política de laisez-faire considera que o alto lucro do monopólio estimule a abertura de novas empresas no mercado, porém este processo pode levar um certo tempo, e é preciso garantir que o monopólio não tenha poder político para criar barreiras de entrada.
 
 ## Tipos de mercado: competição imperfeita
 
 Um mercado de competição imperfeita se caracteriza por ter um grande número de ofertantes e consumidores, e cada empresa detém monopólio sobre seu produto, mas eles não são idênticos, portanto as empresas possuem um grau de poder de mercado, não sendo tomadoras de preço. A grande maioria das empresas se encontra neste tipo de mercado.
 
+De início, uma empresa em competição imperfeita age da mesma forma que o monopólio: para _maximizar o lucro_, ela escolhe a quantidade onde a receita marginal seja igual ao custo marginal, e então usa a curva de demanda para definir o preço máximo que pode cobrar para que os consumidores comprem esta quantidade.
+A entrada de novas empresas no mercado de competição imperfeita aumenta a oferta, deslocando a curva de demanda das demais empresas para a esquerda, fazendo seus lucros diminuírem. A saída de empresas de um mercado de competiçã imperfeita diminui a oferta, fazendo a curva de demanda das empresas remanescentes se deslocar para a direita. No longo prazo, isso leva o mercado de competição imperfeita atingir o equilíbrio no ponto onde o lucro econômico é zero.
+Empresas em mercados de competição imperfeita sempre operam com capacidade ociosa pois, semelhante ao monopólio, a escala eficiente delas está em um ponto onde a receita marginal é superior ao custo marginal. Portanto um cliente a mais (i.e. um deslocamento na curva de demanda para a direita) é sempre desejado para estas empresas [explicar melhor esta parte].
+A melhor forma de analisar um mercado de competição imperfeita é concebendo curvas de oferta e demanda "médias" de todos os ofertantes e consumidores. As duas curvas terão inclinação (positiva e negativa, respectivamente) tanto no curto quanto no longo prazo.
+
 ## Tipos de mercado: oligopólio
+
+Em um oligopólio as curvas de oferta e demanda funcionam da memsa forma que em um mercado de competição imperfeita, porém as empresas agem de forma um pouco diferente, onde a escolha do quanto produzir depende bastante da escolha das demais empresas. A tentação de uma empresa oligopolista é aumentar sua participação no mercado para poder aumentar a quantidade vendida sem que isso aumente a oferta total (fazendo o preço cair). O oligopolista age de acordo com a expectativa. Se a expectativa for de:
+
+- Aumentar sua participação no mercado: ele deve aumentar a produção para lucrar mais
+- Sua participação no mercado contiuar como está: ele manter a produção inalterada
+- Diminuir sua participação no mercado: ele deve diminuir a produção para lucrar mais
+  A cooperação entre empresas oligopolistas (trustes e conluios) aumenta o lucro delas, mas leva a uma situação de monopólio com uma produção demasiado baixa e um preço demasiado alto.
 
 ## Extra: como funciona o mercado de trabalho
 
