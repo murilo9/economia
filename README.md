@@ -71,11 +71,11 @@ Elasticidade da oferta = Δoferta / Δpreço
 
 Elasticidade da demanda = Δdemanda / Δpreço
 
-Elasticidade > 1 -> Oferta/demanda é elástica: ela varia bastante conforme o preço varia.
+Elasticidade > 1 : Oferta/demanda é elástica: ela varia bastante conforme o preço varia.
 
-Elasticidade = 1 -> Oferta/demanda tem elasticidade neutra: ela varia de forma proporcional ao preço.
+Elasticidade = 1 : Oferta/demanda tem elasticidade neutra: ela varia de forma proporcional ao preço.
 
-Elasticidade < 1 -> Oferta/demanda é inelástica: ela varia pouco conforme o preço varia.
+Elasticidade < 1 : Oferta/demanda é inelástica: ela varia pouco conforme o preço varia.
 
 Bens e serviços mais essenciais tendem a ter demanda mais inelástica.
 
@@ -239,6 +239,13 @@ Em um oligopólio as curvas de oferta e demanda funcionam da memsa forma que em 
 
 ## Extra: como funciona o mercado de trabalho
 
+O mercado de trabalho como um todo é um mercado de competição imperfeita. Ja mercados de trabalho de setores específicos podem ser de qualquer tipo (monopólios, oligopólios, competição perfeita ou imperfeita).
+
+> Os fatores de produção são trabalho, terra e capital. Trabalhadores recebem renda através da oferta de trabalho; proprietários recebem renda através da oferta de terra; empresários recebem renda através da oferta de capital. Tais rendas são determinadas pela oferta e demanda destes respectivos mercados.
+
+Uma empresa competitiva emprega trabalhadores até o ponto onde o produto marginal do trabalho seja igual o salário. A partir deste ponto, contratar mais significa lucrar menos.
+Mudanças tecnológicas que aumentam o produto do trabalho também aumentam o produto marginal do trabalho, aumentando a demanda por mão de obra.
+
 ## Impacto microeconômico de políticas públicas
 
 ### De que formas políticas públicas podem impactar os mercados?
@@ -296,6 +303,7 @@ Em um oligopólio as curvas de oferta e demanda funcionam da memsa forma que em 
 ## Como fazer uma análise econômica
 
 Análise de um (ou mais) mercado(s) específico(s): microeconomia
+
 Análise da economia como um todo: macroeconomia
 
 Etapas da análise microeconômica:
