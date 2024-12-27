@@ -245,6 +245,7 @@ O mercado de trabalho como um todo é um mercado de competição imperfeita. Ja 
 
 Uma empresa competitiva emprega trabalhadores até o ponto onde o produto marginal do trabalho seja igual o salário. A partir deste ponto, contratar mais significa lucrar menos.
 Mudanças tecnológicas que aumentam o produto do trabalho também aumentam o produto marginal do trabalho, aumentando a demanda por mão de obra.
+Desta forma, o valor da mão de obra (e portanto, do salário) tende a se igualar ao valor do retorno do trabalho.
 
 ## Impacto microeconômico de políticas públicas
 
@@ -254,11 +255,41 @@ Mudanças tecnológicas que aumentam o produto do trabalho também aumentam o pr
 
 ## PIB
 
-## Oferta agregada
-
 ## Demanda agregada
 
-## Índice de preços
+Representa a quantidade de bens e serviços que as famílias, empresas, estrangeiros e o governo desejam comprar a cada nível de preços. Ela tem inclinação negativa.
+Demanda Agregada = Consumo + Investimentos + Gastos do Governo + Exportações Líquidas (Exportações - Importações)
+Y = C + I + G + EL
+A demanda agregada pode variar em função do nível de preços como consequência de 3 efeitos:
+
+- Efeito riqueza: variações no nível de preços alteram o valor do dinheiro, deixando as pessoas mais pobres ou mais ricas, alterando o consumo.
+- Efeito taxa de juros: variações no nível de preços alteram a quantidade de poupança, que alteram as taxas de juros, que alteram a quantidade de investimentos (componente da demanda agregada) e também o consumo de alguns bens (bens de maior valor que costuma ser adquiridos com crédito).
+- Efeito taxa de câmbio: variações no nível de preços de nações estrangeiras alteram a oferta de moeda, que altera a taxa de câmbio, que altera as exportações líquidas, que são uma componente da demanda agregada.
+
+Quanto aos deslocamentos da curva de demanda agregada, estes podem ocorrer devido a 4 fatores:
+
+- Alterações nos hábitos de consumo.
+- Alterações nas expectativas de investimento.
+- Alterações na expectativa de gastos do governo.
+- Alterações nas exportações líquidas.
+
+## Oferta agregada
+
+Representa a quantidade de bens e serviços que as empresas produzem e vendem a cada nível de preços. Ela tem inclinação positiva no curto prazo, mas no longo prazo é vertical: ele não depende do nível de preços e sim da quantidade e produtividade de capital e mão de obra disponíveis. Essa taxa é chamada de taxa natural de produção, ou taxa de pleno emprego, e é a taxa a qual a economia gravita no longo prazo.
+
+O que faz com que a curva de oferta agregada tenha inclinação positiva no curto prazo é o fato de que no curto prazo as empresas podem operar acima ou abaixo de sua capacidade natural, em função de variações no nível de preços (preços mais altos estimulam um aumento na oferta, enquanto preços mais baixos estimulam uma redução da oferta). Basicamente, a oferta varia quando o nível de preços se desvia do nível de preços esperado.
+
+Os deslocamentos da curva de oferta agregada de longo prazo podem ocorrer devido a:
+
+- Alterações na quantidade/produtividade da mão de obra.
+- Alterações na quantidade de recursos naturais.
+- Alterações na produtividade do capital.
+
+### Sobreposição das curvas e tendência de equilíbrio
+
+As flutuações econônimcas ocorrem devido a interação das curvas de oferta e demanda agregadas.
+
+Uma queda na demanda agregada
 
 ## Extra: Crescimento econômico
 
@@ -311,3 +342,39 @@ Etapas da análise microeconômica:
 1. Definir o tipo de mercado existente
 2. Entender a dinâmica ocorrendo no mercado
 3. Com base no entendimento da dinâmica, propor a melhor solução política (intervenção ou laisez-faire)
+
+## Idéias de artigos
+
+### Como aumentar os salários?
+
+O salário é o preço da mão de obra. O preço real da mão de obra é determinado pela oferta e demanda. A oferta de mão de obra é razoavelmente estável, portanto o maior fator costuma ser a demanda. Um aumento real na demanda por mão de obra se caracteriza por um deslocamento da curva de demanda para a direita, onde a demanda seria maior para o mesmo nível de preço. As empresas contratam mão de obra até que o retorno marginal do trabalho seja zero. O retorno marginal do trabalho depende da produtividade da mão de obra. Portanto, somente aumentos na produtividade da mão de obra geram aumentos reais nos salários.
+
+### O bem-estar como produtividade e como ela pode ser aumentada
+
+O bem-estar depende da quantidade de bens e serviços ofertadas na economia. No longo prazo, a produção econômica só pode aumentar com aumentos no capital e na mão de obra, e/ou nas suas respectivas produtividades.
+
+- Quantidade de mão de obra: só aumenta com aumento demográfico.
+- Quantidade de capital: pode aumentar com aumentos na propensão a poupar, ou atraindo capital externo.
+- Produtividade do capital: aumenta com avanços tecnológicos.
+- Produtividade da mão de obra: aumenta conforme o nível educacional cresce.
+
+O que o governo pode fazer:
+
+- Pode aumentar a mão de obra no curto prazo com flexibilização na imigração e no longo prazo com programas de estímulo à natalidade. É a forma menos eficiente de aumentar a produtividade pois também gera aumento no consumo.
+- Pode aumentar a quantidade de capital abrindo a economia para investidores externos, ou redirecionando a produção de bens de consumo para a produção de capital. É uma estratégia problemática no curto prazo pois reduz a oferta de bens e serviços disponíveis para consumo, reduzindo temporariamente o bem-estar.
+- Pode aumentar a produtividade do capital favorecendo o investimento em pesquisa tecnológica, seja via investimento direto, ou desregulamentando o setor de pesquisa.
+- Pode aumentar a produtividade da mão de obra favorecendo o investimento em educação.
+
+O governo é basicamente um redirecionador, que coleta receita via impostos e empresas públicas, e tem despesas com consumo e investimento (via subsídios).
+O problema do gasto social é que ele melhora o bem-estar mas não contribui para o crescimento da economia. cada centavo destinado a gasto social é um centavo a menos na renda de um grupo mais produtivo (desestimulando a produção de setores mais produtivos), OU no balanço do governo, que tem que gerar dívida pressionando a inflação.
+O problema dos investimentos do governo é que eles são via de regra politizados, e o investimento corre um risco maior de ir para setores pouco produtivos.
+O investimento privado tende a ir para setores mais produtivos, pois investidores privados priorizam o alto retorno.
+Alguns investimentos, entretanto, apesar de darem um alto retorno, são de longo prazo (como investimento em infraestrutura, refinarias, usinas, portos, etc). Como tornar estes investimentos mais atrativos para o investidor privado?
+
+> Comportalmento atual do investidor privado: ir pra renda fixa quando a taxa de juros está alta, e ir para renda variável quando a taxa de juros está baixa. Porém a renda variável pode ser produtiva ou especulativa. No investimento especulativo o dinheiro não fica tempo suficiente na empresa para gerar produção econômica significativa.
+
+Portanto:
+
+- Taxa de juros alta demais: desestimula o investimento em geral e aumenta a poupança, além de aumentar o tamanho da dívida do governo.
+- Taxa de juros baixa demais: reduz a pressão sobre a dívida pública e estimula o investimento, mas aumenta a alavancagem, estimulando a especulação (investimentos de curto prazo, não produtivos, de alto risco e alto retorno).
+- Taxa de juros equilibrada: reduz a pressão sobre a dívida pública e estimula o investimento, mas sem aumentar demais a alavancagem, direcionando a maior parte do dinheiro para investimentos produtivos.
